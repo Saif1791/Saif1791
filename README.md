@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif1791&label=Profile%20views&color=0e75b6&style=flat" alt="saif1791" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saif1791" alt="saif1791" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/saifhussain1793" target="blank"><img src="https://img.shields.io/twitter/follow/saifhussain1793?logo=twitter&style=for-the-badge" alt="saifhussain1793" /></a> </p>
 
 - 🌱 I’m currently learning **Website Development**
