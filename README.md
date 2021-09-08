@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Saif!
-- 👀 I’m interested in website/app development
+- 👀 I’m interested in Website/App development
 - 🌱 I’m currently learning website development
 - 📫 How to reach me, Message me on my socials.
 
