@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Saif1791
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammad Saif!
+- 👀 I’m interested in Website/App Development.
+- 🌱 I’m currently learning Website Development.
+- ✨ Fun Fact: I am a gamer besides being an aspiring software developer.      
+- 📫 To reach me, contact me on my socials.
 
 <!---
 Saif1791/Saif1791 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
