@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif1791&label=Profile%20views&color=0e75b6&style=flat" alt="saif1791" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently learning **MERN Full-Stack Development & Ethical Hacking**
 
 - 📫 How to reach me **saifsep17@gmail.com**
 
