@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif1791&label=Profile%20views&color=0e75b6&style=flat" alt="saif1791" /> </p>
 
-- 🔭 I’m currently working on **AI Resume Builder**
+- 🔭 I’m currently working on **Product Thinking & Skills**
 
-- 🌱 I’m currently learning **NextJS 15**
+- 🌱 I’m currently learning **Product Thinking & Skills**
 
 - 👨‍💻 All of my projects are available at [https://saifwebdevportfolio.vercel.app/](https://saifwebdevportfolio.vercel.app/)
 
